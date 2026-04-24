@@ -1,0 +1,70 @@
+{
+  "window_title": "Endfield",
+  "pos_dict": {
+    "确认键": [
+      1576,
+      902
+    ],
+    "仓库切换": [
+      1017,
+      236
+    ],
+    "背包": [
+      1617,
+      687
+    ],
+    "武陵": [
+      994,
+      495
+    ],
+    "谷地": [
+      1030,
+      674
+    ],
+    "物品": [
+      1001,
+      699
+    ],
+    "装备": null,
+    "精锻键": null
+  },
+  "custom_points": [
+    {
+      "id": 1,
+      "name": "pos1",
+      "x": 1009,
+      "y": 617
+    },
+    {
+      "id": 3,
+      "name": "beibao",
+      "x": 1191,
+      "y": 625
+    },
+    {
+      "id": 4,
+      "name": "pos3",
+      "x": 1307,
+      "y": 814
+    }
+  ],
+  "custom_actions": [
+    {
+      "type": "drag",
+      "start_id": 1,
+      "end_id": 3,
+      "duration": 0.2
+    },
+    {
+      "type": "click",
+      "target_id": 4
+    }
+  ],
+  "custom_point_counter": 5,
+  "combo_direction": "武陵→谷地",
+  "transport_times": 1,
+  "transport_x": 0,
+  "transport_y": 0,
+  "jingduan_count": 1,
+  "custom_repeat": 1
+}
